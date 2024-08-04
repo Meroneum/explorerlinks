@@ -1,0 +1,13 @@
+[{
+    "title": "Meroneum Mainnet",
+    "url": "https://meronscan.ai/",
+    "group": "Mainnets",
+    "icon": "https://i.ibb.co/dkZx7Bg/meroneum-Logo.png"
+},
+{
+    "title": "Meroneum Testnet",
+    "url": "https://testnet.meronscan.ai/",
+    "group": "Testnets",
+    "icon": "https://i.ibb.co/dkZx7Bg/meroneum-Logo.png"
+}
+]

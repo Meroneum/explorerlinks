@@ -1,0 +1,115 @@
+[
+    {
+        "title": "Socials",
+        "links": [
+            {
+                "text": "Twitter",
+                "url": "https://twitter.com/Meroneum"
+            },
+            {
+                "text": "Facebook",
+                "url": "https://www.facebook.com/meroneum"
+            },
+            {
+                "text": "Tik-Tok",
+                "url": "https://www.tiktok.com/@meroneum"
+            },
+            {
+                "text": "Telegram",
+                "url": "https://t.me/meroneum"
+            },
+            {
+                "text": "YouTube",
+                "url": "https://www.youtube.com/@meroneum"
+            },
+            {
+                "text": "Instagram",
+                "url": "https://www.instagram.com/Meroneum/"
+            },
+            {
+                "text": "LinkedIn",
+                "url": "https://www.linkedin.com/company/meroneum"
+            },
+            {
+                "text": "Github",
+                "url": "https://github.com/meroneum"
+            }
+        ]
+    },
+    
+    {
+        "title": "Resources",
+        "links": [
+            {
+                "text": "Documentation",
+                "url": "https://docs.meronscan.ai"
+            },
+            {
+                "text": "Understanding Meron",
+                "url": "https://www.meroneum.ai/whitepaper.pdf"
+            },
+            {
+                "text": "Meron DAO Validator",
+                "url": "https://www.meroneum.ai/meroneumvalidator.pdf"
+            },
+            {
+                "text": "Build on Meroneum",
+                "url": "https://www.meroneum.ai/build-with-us"
+            },
+            {
+                "text": "Developer Program",
+                "url": "https://www.meroneum.ai/developerprogram.pdf"
+            },
+            {
+                "text": "Testnet Faucet",
+                "url": "https://faucet-testnet.meronscan.ai"
+            }
+        ]
+    },
+    {
+        "title": "Ecosystem",
+        "links": [
+            {
+                "text": "Mainnet Explorer",
+                "url": "https://meronscan.ai"
+            },
+            {
+                "text": "Testnet Explorer",
+                "url": "https://testnet.meronscan.ai"
+            }
+        ]
+    },
+    {
+        "title": "Quick Links",
+        "links": [
+            {
+                "text": "Blocks",
+                "url": "https://testnet.meronscan.ai/blocks"
+            },
+            {
+                "text": "Transactions",
+                "url": "https://testnet.meronscan.ai/txs"
+            },
+            {
+                "text": "Tokens",
+                "url": "https://testnet.meronscan.ai/tokens"
+            },
+            {
+                "text": "MERON Holders",
+                "url": "https://testnet.meronscan.ai/accounts"
+            },
+            {
+                "text": "Stats",
+                "url": "https://testnet.meronscan.ai/stats"
+            },
+            {
+                "text": "Verified Contracts",
+                "url": "https://testnet.meronscan.ai/verified-contracts"
+            },
+            {
+                "text": "API Docs",
+                "url": "https://testnet.meronscan.ai/api-docs"
+            }
+        ]
+    }
+]
